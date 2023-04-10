@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Ketelyn Medina 🤗
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketelynmm&theme=omni&show_icons=true)
+![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=ketelynmm&theme=omni&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
