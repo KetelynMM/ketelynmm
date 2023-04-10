@@ -5,5 +5,3 @@
 - 🔭 Atualmente mexendo com back-end
 - 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
-- 
-- =)
